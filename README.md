@@ -1,0 +1,2 @@
+# hasagi
+yönetim
